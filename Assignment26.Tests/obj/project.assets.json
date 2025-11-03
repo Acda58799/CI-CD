@@ -967,11 +967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26-solution\\Assignment26.Tests\\Assignment26.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26.Tests\\Assignment26.Tests.csproj",
       "projectName": "Assignment26.Tests",
-      "projectPath": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26-solution\\Assignment26.Tests\\Assignment26.Tests.csproj",
+      "projectPath": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26.Tests\\Assignment26.Tests.csproj",
       "packagesPath": "C:\\Users\\Anders\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26-solution\\Assignment26.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anders\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -986,8 +986,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
-              "projectPath": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\Assignment26-solution\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj"
+            "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
+              "projectPath": "C:\\Users\\Anders\\Documents\\Repositories\\CI-CD\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj"
             }
           }
         }
