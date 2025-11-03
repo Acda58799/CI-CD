@@ -20,7 +20,8 @@ jobs:
         run: dotnet test
      
   build:
-    runs-on: windows-latest    
+    runs-on: windows-latest  
+    needs: test    
     permissions:
       contents: read #This is required for actions/checkout
 
