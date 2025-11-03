@@ -10,8 +10,23 @@ on:
   workflow_dispatch:
 
 jobs:
+ test:
+  runs-on windows-latest
+  
+  steps:
+   - uses: actions/checkout@v4
+   - name: Run tests
+     working-directory: ./Assignment26.Tests
+     run: dotnet test
+     
   build:
     runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run tests
+      working-directory: ./Assignment26.Tests
+      run: dotnet test
+    
     permissions:
       contents: read #This is required for actions/checkout
 
